@@ -145,8 +145,23 @@ Many households face high electricity bills, especially during summer, due to li
  - 3 js
  - GSAP animations
 
-## Integration:
+### Integration:
  - flask
+
+## Future Scope and Scalability 🚀
+Sunscope envisions further enhancements and scalability to meet evolving user needs and technological advancements:
+
+- Subscription Plans:
+  - Offer tiered subscriptions for premium features like detailed solar analysis, advanced savings reports, and custom solar panel recommendations
+- Affiliate Marketing:
+  - Earn commissions by partnering with solar panel manufacturers, selling panels or equipment through the platform.
+- White Label Licensing:
+  - License the platform to other regions or countries, allowing solar companies or energy providers to use the software with their branding
+
+
+
+
+
 
 
 <!-- CONTRIBUTING -->
