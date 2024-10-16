@@ -95,28 +95,35 @@ Many households face high electricity bills, especially during summer, due to li
 ![result](https://github.com/user-attachments/assets/24790ab8-54b1-4173-bb2b-ffb72b2a5526)
 
  
-- 
+- Sustainability
 
-   - You can just input your area pincode and our platform will give you all nearby pharmacies details with location on map.
+   - Promotes long-term sustainability by supporting the adoption of renewable solar energy solutions.
+
+
+
+![sustainability](https://github.com/user-attachments/assets/52679962-18bb-42e1-a35b-36fba4214be9)
+
+
+
+- Cost Savings
+
+  - Provides personalized estimates of annual savings based on your electricity bill and rooftop solar potential
  
 
-
-
-![pharmacy](https://github.com/user-attachments/assets/fc64d7e1-baa8-4323-a386-3e7b00750a9f)
-
-
-- Website Interface: 
-
-  - User-friendly website interface for easy interaction and navigation with darkmode & light mode.
- 
-
+![cost savings](https://github.com/user-attachments/assets/f8301c97-c6be-4af8-a146-46554d237691)
 
 
  <img width="914" alt="darkmode" src="https://github.com/user-attachments/assets/49e28858-fec4-42c3-a085-39eb4db47f1f">
 
+- Reduced Carbon Emissions
+   - Solar energy helps cut down on greenhouse gas emissions by replacing fossil fuel-based electricity with clean, renewable power
+ 
+     
+![positive env impact](https://github.com/user-attachments/assets/d9a65cf4-09c9-4c4b-bfe7-7a7ed6172530)
+
 - Enhanced Model Training:
 
-  - Our deep learning model is trained and tested and the accuracy is 98% , while our summarization analysis model is also performing good.
+  - Our YOLO v11 model is trained on a large amount of dataset in order to predict the correct rooftop annotation
  
 
 
