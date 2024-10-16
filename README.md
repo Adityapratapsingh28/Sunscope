@@ -75,7 +75,7 @@ Many households face high electricity bills, especially during summer, due to li
 
 <!-- ROADMAP -->
 ## Key Features 🤖
-- Simplified and user frirendly UI
+- Simplified and user friendly UI:
 
    - We have provided a simple page to upload the rooftop image and to enter the monhtly electricity bill
  
@@ -85,7 +85,7 @@ Many households face high electricity bills, especially during summer, due to li
 ![calculate](https://github.com/user-attachments/assets/60aa54f4-1951-41e1-b49e-9cc342c2db5c)
 
 
-- Accurate Detection & display of savings
+- Accurate Detection & display of savings:
 
    - When the user will enter the rooftop & his electricity bill , our website will show the total rooftop area, estimated solar potential, number of solar panels and estimated annual savings
  
@@ -95,7 +95,7 @@ Many households face high electricity bills, especially during summer, due to li
 ![result](https://github.com/user-attachments/assets/24790ab8-54b1-4173-bb2b-ffb72b2a5526)
 
  
-- Sustainability
+- Sustainability:
 
    - Promotes long-term sustainability by supporting the adoption of renewable solar energy solutions.
 
@@ -105,7 +105,7 @@ Many households face high electricity bills, especially during summer, due to li
 
 
 
-- Cost Savings
+- Cost Savings:
 
   - Provides personalized estimates of annual savings based on your electricity bill and rooftop solar potential
  
@@ -114,7 +114,7 @@ Many households face high electricity bills, especially during summer, due to li
 
 
 
-- Reduced Carbon Emissions
+- Reduced Carbon Emissions:
    - Solar energy helps cut down on greenhouse gas emissions by replacing fossil fuel-based electricity with clean, renewable power
  
      
@@ -154,3 +154,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Nilesh Kanti - [Linkedin](https://www.linkedin.com/in/nileshkanti/) 
 
 Aditya Pratap Singh - [Linkedin](https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+Srijan Sarkar - [Linkedin]([https://www.linkedin.com/in/nileshkanti/](https://www.linkedin.com/in/srijan-sarkar-90177b288/))
+
+Shantam Ranjan - [Linkedin]([https://www.linkedin.com/in/nileshkanti/](https://www.linkedin.com/in/shantam-ranjan-445833219/)) 
