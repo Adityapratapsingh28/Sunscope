@@ -113,7 +113,6 @@ Many households face high electricity bills, especially during summer, due to li
 ![cost savings](https://github.com/user-attachments/assets/f8301c97-c6be-4af8-a146-46554d237691)
 
 
- <img width="914" alt="darkmode" src="https://github.com/user-attachments/assets/49e28858-fec4-42c3-a085-39eb4db47f1f">
 
 - Reduced Carbon Emissions
    - Solar energy helps cut down on greenhouse gas emissions by replacing fossil fuel-based electricity with clean, renewable power
@@ -127,8 +126,8 @@ Many households face high electricity bills, especially during summer, due to li
  
 
 
-<img width="709" alt="accuracy" src="https://github.com/user-attachments/assets/3d3560ee-2e87-4c49-b091-3b10a1e45c20">
 
+![Screenshot 2024-10-16 065617](https://github.com/user-attachments/assets/03dc7d25-a7bf-4676-9ac9-e5b5fde34939)
 
 
 <!-- CONTRIBUTING -->
