@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/401619b9-b1db-4652-bd98-77b30be6f6b4
 <!-- USAGE EXAMPLES -->
 ## Problem Statement
 
-The healthcare system faces challenges in timely, accurate diagnoses, especially where expertise is limited. Patients struggle to navigate care, and doctors may struggle to identify conditions with limited information. Traditional methods are often time-consuming, costly, and unreliable, leading to delayed treatment and suboptimal outcomes.
+Many households face high electricity bills, especially during summer, due to limited use of solar energy. Despite the benefits of solar power, such as reducing electricity costs and supporting sustainability, users often struggle with the complexity of determining how many solar panels can fit on their roof and how much they could save. A lack of knowledge and awareness about solar energy adoption further hinders their ability to make informed decisions.
 
 
 
@@ -75,25 +75,27 @@ The healthcare system faces challenges in timely, accurate diagnoses, especially
 
 <!-- ROADMAP -->
 ## Key Features 🤖
-- Disease prediction
+- Simplified and user frirendly UI
 
-   - Our Deep learning model & Machine learning model will take the image & data of patient and predict the disease.
+   - We have provided a simple page to upload the rooftop image and to enter the monhtly electricity bill
  
 
 
      
-![disease](https://github.com/user-attachments/assets/ee4554ed-ed8e-4c70-bf25-23f4db95e717)
+![calculate](https://github.com/user-attachments/assets/60aa54f4-1951-41e1-b49e-9cc342c2db5c)
 
-- Interactive Chatbot
 
-   - This chatbot can chat with you in real time and if you give some symptoms you are suffering, then it will suggest what kind of problem do you have, medcine you can take & some home remedies.
+- Accurate Detection & display of savings
+
+   - When the user will enter the rooftop & his electricity bill , our website will show the total rooftop area, estimated solar potential, number of solar panels and estimated annual savings
  
      
  
-<img width="917" alt="chatbot" src="https://github.com/user-attachments/assets/31178176-5670-4234-b5a9-eb809f3968dc">
+
+![result](https://github.com/user-attachments/assets/24790ab8-54b1-4173-bb2b-ffb72b2a5526)
 
  
-- Nearby Pharmacy
+- 
 
    - You can just input your area pincode and our platform will give you all nearby pharmacies details with location on map.
  
