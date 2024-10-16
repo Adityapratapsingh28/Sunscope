@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rooftop Detection and Solar Potential</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1, h2 { color: #333; }
+        form { margin-bottom: 20px; }
+        input[type="file"], input[type="number"] { margin-bottom: 10px; display: block; }
+        input[type="submit"] { background-color: #4CAF50; color: white; padding: 10px 15px; border: none; cursor: pointer; }
+        input[type="submit"]:hover { background-color: #45a049; }
+        #result { margin-top: 20px; }
+        img { max-width: 100%; height: auto; }
+        .info { background-color: #f0f0f0; padding: 15px; border-radius: 5px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Rooftop Detection and Solar Potential</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <label for="file">Upload Rooftop Image:</label>
+        <input type="file" name="file" id="file" accept="image/*" required>
+        
+        <label for="electricity_bill">Monthly Electricity Bill (Rs.):</label>
+        <input type="number" name="electricity_bill" id="electricity_bill" step="0.01" required>
+        
+        <input type="submit" value="Analyze Rooftop and Calculate Savings">
+    </form>
+    <div id="result">
+        {% if result_image %}
+            <h2>Analysis Results:</h2>
+            <img src="{{ result_image }}" alt="Detected Rooftop">
+            <div class="info">
+                <h3>Rooftop and Solar Potential Analysis:</h3>
+                <ol>
+                    <li><strong>Total Rooftop Area:</strong> {{ area }} m²</li>
+                    <li><strong>Estimated Solar Potential:</strong> {{ solar_potential }} W</li>
+                    <li><strong>Estimated Number of Solar Panels:</strong> {{ num_panels }}</li>
+                    <li><strong>Estimated Annual Savings:</strong> Rs.{{ annual_savings }}</li>
+                </ol>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
