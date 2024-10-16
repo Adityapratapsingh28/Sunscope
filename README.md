@@ -1,10 +1,11 @@
 ## About The Project
 
-Nivaran is a comprehensive healthcare platform that leverages machine learning and deep learning to assist both doctors and the general public in diagnosing various medical conditions, including brain tumors, chest cancer, bone fractures, and diabetes. Users can simply upload medical scans or numerical data, and the platform will provide accurate predictions based on its advanced algorithms. Additionally, Nivaran offers an interactive chatbot that can locate nearby pharmacies on a map, further enhancing the user's access to healthcare resources.
+Sunscope is a user-friendly platform designed to simplify solar energy adoption for households. By leveraging satellite imagery from Google Earth or Google Maps, users can easily upload images of their rooftops. Using our trained YOLO v11 model, Sunscope automatically annotates the rooftop and calculates the available surface area. Based on this, the platform estimates the number of solar panels that can be installed. Additionally, users can input their monthly electricity bills to receive personalized insights on potential annual savings from solar energy. Sunscope aims to reduce electricity costs, promote sustainability, and enhance awareness about the benefits of solar power
 
 
 
-![home_nivaran](https://github.com/user-attachments/assets/2dd79a5a-286b-474b-848a-d632b2c366e8)
+![home](https://github.com/user-attachments/assets/766a6d33-5f89-4708-b922-9fa7ea9a3288)
+
 
 # Built With
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -27,7 +28,7 @@ In this section you should provide instructions on how to use this repository to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Adityapratapsingh28/Nivaran
+   git clone https://github.com/Adityapratapsingh28/Sunscope
    ```
 
 ### Dependencies
@@ -39,18 +40,13 @@ Here, list all libraries, packages and other dependencies that need to be instal
 For example, this is how you would list them:
 * Installing all dependencies
   ```sh
-  pip install -r Requirements.txt
+  pip install -r requirements.txt
   ```
 * Example of requirements.txt
   ```sh
-  tensorflow==2.5.0
-  fastapi
-  uvicorn
-  python-multipart
-  pillow
-  tensorflow-serving-api==2.5.0
-  matplotlib
-  numpy
+  ultralytics
+  flask
+  opencv-python-headless
   ```
 ## Video tutorial to run locally
 
