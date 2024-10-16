@@ -134,6 +134,21 @@ Many households face high electricity bills, especially during summer, due to li
 ![Screenshot 2024-10-16 065617](https://github.com/user-attachments/assets/03dc7d25-a7bf-4676-9ac9-e5b5fde34939)
 
 
+## Technology Used
+
+### Model Traning:
+ - YOLO v11 (object detection)
+
+### Website:
+ - Javascript
+ - Tailwind CSS
+ - 3 js
+ - GSAP animations
+
+## Integration:
+ - flask
+
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
