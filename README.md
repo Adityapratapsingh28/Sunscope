@@ -1,3 +1,6 @@
+# Sunscope - Mapping your Rooftop's Solar Potential
+
+
 ## About The Project
 
 Sunscope is a user-friendly platform designed to simplify solar energy adoption for households. By leveraging satellite imagery from Google Earth or Google Maps, users can easily upload images of their rooftops. Using our trained YOLO v11 model, Sunscope automatically annotates the rooftop and calculates the available surface area. Based on this, the platform estimates the number of solar panels that can be installed. Additionally, users can input their monthly electricity bills to receive personalized insights on potential annual savings from solar energy. Sunscope aims to reduce electricity costs, promote sustainability, and enhance awareness about the benefits of solar power
