@@ -99,7 +99,8 @@ Many households face high electricity bills, especially during summer, due to li
      
  
 
-![result](https://github.com/user-attachments/assets/24790ab8-54b1-4173-bb2b-ffb72b2a5526)
+![Sunscope](https://github.com/user-attachments/assets/f8786a8b-783d-4d28-8f0f-33cf728dffb5)
+
 
  
 - Sustainability:
@@ -150,6 +151,11 @@ Many households face high electricity bills, especially during summer, due to li
 
 ### Integration:
  - flask
+
+
+## Architecture Diagram
+<img width="484" alt="image" src="https://github.com/user-attachments/assets/63e13f57-c913-4436-b23c-75cbd2bf688e">
+
 
 ## Future Scope and Scalability 🚀
 Sunscope envisions further enhancements and scalability to meet evolving user needs and technological advancements:
